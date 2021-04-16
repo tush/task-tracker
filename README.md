@@ -29,6 +29,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Steps`
+npx create-react-app task-tracker
+npm i react-icons
+npm i -g serve
+http://localhost:8000
+npm i react-router-dom
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
